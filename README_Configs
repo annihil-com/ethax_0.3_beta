@@ -1,0 +1,16 @@
+Copy from EThax_Priv/EThax_Src/EThax_Bin/Configs:
+human.cfg
+human2.cfg
+rage.cfg
+
+Paste it to yours home folder DIR and
+now we have avible command in console
+/EThax_HumanCfg
+/EThax_Human2Cfg
+	-Aimbot is set to Human Mode
+/EThax_RageCfg
+	-Aimbot is set to Rage Mode
+
+
+!!! REMEBER !!!
+Don`t Put this configs to .etwolf/etmain because when you do this PB Streaming server kicked you!!

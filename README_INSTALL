@@ -1,0 +1,39 @@
+__________        .__               __          
+\______   \_______|__|__  _______ _/  |_  ____  
+ |     ___/\_  __ \  \  \/ /\__  \\   __\/ __ \ 
+ |    |     |  | \/  |\   /  / __ \|  | \  ___/ 
+ |____|     |__|  |__| \_/  (____  /__|  \___  >
+                                 \/          \/ 
+  ___ ___                ____  __.
+ /   |   \  ____   ____ |    |/ _|
+/    ~    \/  _ \ /  _ \|      <  
+\    Y    (  <_> |  <_> )    |  \ 
+ \___|_  / \____/ \____/|____|__ \
+       \/                       \/
+
+
+.___                 __         .__  .__   
+|   | ____   _______/  |______  |  | |  |  
+|   |/    \ /  ___/\   __\__  \ |  | |  |  
+|   |   |  \\___ \  |  |  / __ \|  |_|  |__
+|___|___|  /____  > |__| (____  /____/____/
+         \/     \/            \/           
+
+|9 Steps to Run EThax GooD Look :)| Tutorial by Immortal From http://www.private-hook.za.pl/ 
+
+1. Download EThax 0.1 "Remember EThax is not Release and not open source dont give anyone this verssion"
+	Link:
+2. Unpack EThax-0.1 to Home Folder
+3. Open /home/user name/EThax-0.1/src and run "installCompilePackages.sh"
+4. Now edit /home/user name/EThax-0.1/src/Compile.sh
+	Chance you dir Ware you unpack EThax-0.1 
+	Example: cd /home/yours user name/EThax-0.1/EThax_Src
+5. Run Compile.sh and wait.
+6. ON /home/user name/EThax-0.1/EThax_Src/EThax_Bin you see 3 file
+	Files: ETmix.pk3 , ETmix.sh , libEThax.so
+7. ETmix.pk3 cut and paste to ./etwolf to etmain folder
+8. Edit ETmix.sh 
+	Example: export LD_PRELOAD=/home/user name/EThax-0.1/EThax_Src/EThax_Bin/libEThax.so 
+	Allways chance user name :)
+9. Run ETmix.sh and have fun to own some noob`s :)
+	
